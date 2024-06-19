@@ -1,0 +1,6 @@
+
+# Sentry Config File
+.env
+dist/
+.env.sentry-build-plugin
+node_modules/
